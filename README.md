@@ -1,2 +1,2 @@
-# Weather-Prediction
+# Sky Watch
 Weather Application
