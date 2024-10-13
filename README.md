@@ -1,2 +1,1 @@
-# Sky Watch
-Weather Application
+# Weather Application
